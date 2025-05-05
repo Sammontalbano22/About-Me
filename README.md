@@ -33,9 +33,8 @@ Bachelor of Science in Computer Science and Bachelor of Science in Mathematics
 - During my internship seeking journey, I found it difficult to constantly update my resume to match Job Descriptions while still maintaing a successful ATS compliant template, so I created a ResumeBuilding program that allows for easy updating with GPT 4.0 assistance.
     - [ResumeBuilder](https://github.com/Sammontalbano22/PythonProjects/blob/main/resumebuilder.py)
  
-- A collection of
-
-
+- This year for my dad's birthday I created a Stardew-Valley style game highlighting our many outdoor adventures.
+    - ![Arkansas River Pixel Art] (/Users/smon7/Downloads/Screenshot 2025-05-05 at 1.21.20 PM.png)
 
 
 ## 🛠 TECHNICAL SKILLS
