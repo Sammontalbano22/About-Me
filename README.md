@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Samuel Montalbano
 
+
 I'm a third year Computer Science student at the University of Denver. I am passionate about utalizing my programming skills to expand opportunities for rural students in America.
+
 
 
 ## 🎓 Education
@@ -21,7 +23,7 @@ Bachelor of Science in Computer Science and Bachelor of Science in Mathematics
 - 💻 Developing a Rural Student Partnership program in partnership with First@DU and the Office of Undergraduate Admissions at the University of Denver.
 
   
-## 🔗 Links
+## 🔗 Portfolio
 - 🌐 [My Personal Website](https://sammontalbano22.github.io/sammontalbanoportfolio/)
 
 
@@ -33,8 +35,8 @@ Bachelor of Science in Computer Science and Bachelor of Science in Mathematics
 - During my internship seeking journey, I found it difficult to constantly update my resume to match Job Descriptions while still maintaing a successful ATS compliant template, so I created a ResumeBuilding program that allows for easy updating with GPT 4.0 assistance.
     - [ResumeBuilder](https://github.com/Sammontalbano22/PythonProjects/blob/main/resumebuilder.py)
  
-- This year for my dad's birthday I created a Stardew-Valley style game highlighting our many outdoor adventures.
-    - ![Arkansas River Pixel Art] (/Users/smon7/Downloads/Screenshot 2025-05-05 at 1.21.20 PM.png)
+- This year for my dad's birthday I created a Stardew-Valley style game highlighting our many outdoor adventures. For this project I used the Unity game engine. Not only did this improve my understanding of game development, but it also helped with my understanding of C#
+    - ![Arkansas River Pixel Art](https://github.com/Sammontalbano22/About-Me/blob/main/yay.jpg)
 
 
 ## 🛠 TECHNICAL SKILLS
