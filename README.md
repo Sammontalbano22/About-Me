@@ -3,7 +3,7 @@
 I'm a third year Computer Science student at the University of Denver. I am passionate about utalizing my programming skills to expand opportunities for rural students in America.
 
 
-## 🎓 EDUCATION
+## 🎓 Education
 
 **University of Denver**  
 *Expected Graduation: June 2026*  
